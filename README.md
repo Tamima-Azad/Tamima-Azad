@@ -10,18 +10,19 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 CSE Undergraduate passionate about development  
-- 💻 Android Dev (Java + Firebase) | 🌐 Web Dev (HTML, CSS, JS, PHP, MySQL)  
-- 🌱 Learning DSA, REST APIs, Advanced Android  
-- 🎨 Interested in UI/UX, Cloud, and Open Source  
+- 🎓 *CSE Undergraduate* passionate about software development
+- 💻 *Android Developer* (Java, XML, Firebase)
+- 🌐 *Web Developer* (HTML, CSS, JS, PHP, MySQL)
+- 🎨 Interested in *UI/UX Design, **Cloud Services, and **Open Source*
+- 🌱 Currently learning *Advanced Android, **DSA, and **REST APIs*
 
 ---
 
 ## 🧩 Projects
 
-- 🔍 **Mentor Searching App** – Team project for learning, mentor search & post sharing (Java + Firebase) [🔗](https://github.com/MdRifathSharker/MentorSearchingManagementSystem)
-- 💼 **Lost & Found System** – Web app with item exchange (HTML, PHP, MySQL) [🔗](https://github.com/Tamima-Azad/LostAndFound) [🌐](https://tami.free.nf/)
-- 🌐 **Portfolio Website** – Personal website [🌐](https://tamima-azad.github.io/my-portfolio/)
+- 🔍 **Mentor Searching App** – Team project for learning, mentor search & post sharingI contributed to Android development using Java and Firebase ([GitHub Repo](https://github.com/MdRifathSharker/MentorSearchingManagementSystem/tree/master))
+- 💼 **Lost and Found Management System with Exchange Feature** – Web app with item exchange (HTML,CSS, PHP, MySQL,Bootstrap) [🔗GitHub Repo](https://github.com/Tamima-Azad/LostAndFound) [🌐Live](https://tami.free.nf/)
+- 🌐 **Personal Portfolio Website** – Built with HTML, CSS, JS [🌐Live](https://tamima-azad.github.io/my-portfolio/)
 
 ---
 
@@ -69,7 +70,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=ED8B00&center=true&vCenter=true&width=435&lines=Stay+curious.+Keep+building.+Dream+big.+🚀" alt="Typing SVG" />
-</p>
+> “Stay curious. Keep building. Dream big.” 🚀
