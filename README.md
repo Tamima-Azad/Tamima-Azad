@@ -3,6 +3,11 @@
 <h3 align="center">CSE Student | Android & Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamima-Azad&label=Profile%20views&color=0e75b6&style=flat" alt="Tamima-Azad" />
 </p>
 
@@ -54,8 +59,8 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tamima-azad-b90067266/)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📧 tamima.azad@example.com
+- 🌐 [Portfolio](tamima-azad.github.io/my-portfolio/)
+- 📧 tamimaazad368@gmail.com
 
 ---
 
