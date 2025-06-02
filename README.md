@@ -58,7 +58,7 @@
 ### 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tamima-azad-b90067266/)
-- 🌐 [Portfolio](tamima-azad.github.io/my-portfolio/)
+- 🌐 [Portfolio](https://tamima-azad.github.io/my-portfolio/)
 - 📧 tamimaazad368@gmail.com
 
 ---
