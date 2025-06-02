@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
-<h3 align="center">CSE Student | Android & Web Developer | Tech Enthusiast</h3>
+<h3 align="center">✨ CSE Student | Android & Web Developer | Tech Enthusiast | Lifelong Learner ✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamima-Azad&label=Profile%20views&color=0e75b6&style=flat" alt="Tamima-Azad" />
@@ -14,8 +14,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 CSE Undergraduate with a passion for software development
-- 💻 Android Developer using **Java + Firebase**
-- 🌐 Web Developer familiar with **HTML, CSS, JS, PHP**
+- 💻 Android Developer using **Java, XML, Firebase**
+- 🌐 Web Developer familiar with **HTML, CSS, JS, PHP**,and **MySQL**
 - 🔍 Interested in **UI/UX Design**, **Cloud Services**, and **Open Source**
 - 🌱 Currently learning **Advanced Android**, **DSA**, and **REST APIs**
 
