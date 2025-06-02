@@ -36,20 +36,21 @@
 - **Lost and Found Management System with Exchange Feature** –HTML,CSS, PHP, MySQL, Bootstrap ([GitHub Repo](https://github.com/Tamima-Azad/LostAndFound). [Live](https://tami.free.nf/))
 
 ---
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tamima-Azad&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=tokyonight" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamima-Azad&layout=compact&theme=tokyonight" width="50%" /> <
 
 ## 📈 GitHub Stats
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamima-Azad&show_icons=true&theme=tokyonight" alt="Tamima's GitHub stats width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=tokyonight" alt="GitHub Streak" width="48%"/> 
+</p> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamima-Azad&show_icons=true&theme=radical" alt="Tamima's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=radical" alt="GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamima-Azad&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamima-Azad&layout=compact&theme=tokyonight"  alt="Top Languages"  width="50%" /> 
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Tamima-Azad&theme=radical&no-bg=true&no-frame=true&column=6" /> </p>
 
 ---
