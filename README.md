@@ -1,13 +1,9 @@
 <!-- Profile Banner or Typing Animation -->
 <h1 align="center">Hi there, I'm Tamima Azad 👋</h1>
 <p align="center">
-  <img src="https://your-image-link.com/banner.gif" alt="Tamima Azad Banner" width="100%"/>
-</p>
-<h3 align="center">CSE Student | Android & Web Developer | Tech Enthusiast</h3>
-
-<p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
+<h3 align="center">CSE Student | Android & Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamima-Azad&label=Profile%20views&color=0e75b6&style=flat" alt="Tamima-Azad" />
@@ -50,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tamima-Azad&show_icons=true&theme=radical" alt="Tamima's GitHub stats" />
 </p>
 <p align="center">
-  <img target="_blank" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamima-Azad&layout=compact&theme=radical" alt="Top Languages" />
