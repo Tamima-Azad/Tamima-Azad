@@ -36,7 +36,8 @@
 - **Lost and Found Management System with Exchange Feature** –HTML,CSS, PHP, MySQL, Bootstrap ([GitHub Repo](https://github.com/Tamima-Azad/LostAndFound). [Live](https://tami.free.nf/))
 
 ---
-
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tamima-Azad&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamima-Azad&theme=tokyonight" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamima-Azad&layout=compact&theme=tokyonight" width="50%" /> <
 
 ## 📈 GitHub Stats
 
