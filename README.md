@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com/banner.gif" alt="Tamima Azad Banner" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tamima-Azad&label=Profile%20views&color=0e75b6&style=flat" alt="Tamima-Azad" />
 </p>
 
